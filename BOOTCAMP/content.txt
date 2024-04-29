@@ -1,0 +1,110 @@
+STEP ONE
+Effort: 1 to 2 hours daily + Normal practice
+
+✧ Overview of Java
+✧ Setting up [JDK, JRE, IDE]
+✧ Basic Syntax and Structure
+✧ Primitive Data Types
+✧ Variables and Constants
+✧ Operators
+
+
+Control Flow
+STEP TWO
+Effort: 1 to 2 hours daily + Normal practice
+
+✧ Conditional Statements
+     ❯ if, if else, else if, switch
+✧ Loops
+    ❯ while, for, do-while
+✧ break and continue
+✧ Exception Handling
+    ❯ try, catch, finally
+Object Oriented Programming
+
+
+STEP THREE
+Effort: 2 hours daily + Moderate practice
+
+✧ Classes and Objects
+✧ Constructors and Methods
+✧ Encapsulation, Inheritance, and Polymorphism
+✧ Abstraction
+✧ Packages
+✧ Access Modifiers
+Advanced Data Types
+
+
+STEP FOUR
+Effort: 2 hours daily + Moderate practice
+
+✧ Arrays
+✧ Strings
+✧ Dates and Times
+Advanced OOPs
+
+
+STEP FIVE
+Effort: 2 hours daily + Moderate practice
+
+✧ Exception Handling
+    ❯ Checked and Unchecked Exceptions
+✧ Abstract Classes
+✧ Interfaces
+✧ Functional Interfaces and Lambdas
+✧ Enums
+✧ static and final Keywords
+✧ Generics
+
+
+STEP SIX
+➏ Collections Framework
+Effort: 2 hours daily + Moderate practice
+
+✧ List
+    ❯ ArrayList, LinkedList
+✧ Set
+    ❯ HashSet
+✧ Tree
+✧ Map
+    ❯ HashMap
+✧ Iterator
+✧ Sorting
+    ❯ Comparable, Comparator
+✧ Searching
+Multi-threading and Concurrency
+
+
+STEP SEVEN
+Effort: 2 hours daily + Moderate practice
+
+✧ Introduction to Threads
+✧ Creating and Managing Threads
+✧ Synchronization and Thread Safety
+✧ Thread Pools and Executors
+Advanced Java Concepts
+
+
+STEP EIGHT
+Effort: 2 hours daily + Moderate practice + Build projects
+
+✧ Streams
+✧ I/O
+✧ Serialization and Deserialization
+✧ JDBC
+✧ Servlets and JSPs
+✧ JMS
+
+STEP NINE
+➒ Taking it Forward
+
+✧ Design Patterns
+✧ Unit Testing, TDD
+✧ Building Applications
+    ❯ JAR, WAR, EAR files
+    ❯ Maven
+✧ Enterprise Applications
+    ❯ Spring
+    ❯ Hibernate
+    ❯ Jakarta EE
+    ❯ Kafka
